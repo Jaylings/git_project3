@@ -1,0 +1,7 @@
+echo "This is the list genres of music"
+reggae
+hip-hop
+r&b
+blues
+afro beat
+fuji
