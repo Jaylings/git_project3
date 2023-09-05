@@ -7,4 +7,4 @@ echo $i
 done
 echo "end of loop"
 
-expre `1 + 6 = `
+expr 1 + 6   
