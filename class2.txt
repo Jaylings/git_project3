@@ -1,0 +1,6 @@
+iecho "This is the list of fruits"
+watermelon
+guava
+mango
+strawberry
+
