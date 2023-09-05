@@ -3,5 +3,4 @@ watermelon
 guava
 mango
 strawberry
-cashew
-orange
+
